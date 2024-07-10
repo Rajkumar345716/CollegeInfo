@@ -7,4 +7,7 @@ public class Student {
 	public static void main(String[] args) {
 		Student s = new Student();
 	}
+	private void Tc02() {
+System.out.println("Test02");
+	}
 }
